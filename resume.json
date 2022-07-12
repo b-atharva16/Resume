@@ -1,0 +1,159 @@
+{
+    "basics": {
+        "name": "Atharva Bhadale",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1012@iiitkota.ac.in",
+        "phone": "+919960490610",
+        "website": "",
+        "summary": "Student at Indian Institute of Information Technology, Kota (India), pursuing B.tech in Computer Science & Engineering.",
+        "location": {
+            "address": "30/2B, 'Sarthak', Vijayraj Colony, Pimple Gurav",
+            "postalCode": "411061",
+            "city": "Pune",
+            "countryCode": "India",
+            "region": "Maharashtra"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "atharva_bhadale",
+                "url": "https://twitter.com/atharva_bhadale"
+            },
+            {
+                "network": "Github",
+                "username": "b-atharva16",
+                "url": "https://github.com/b-atharva16"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Atharva Bhadale",
+                "url": "https://www.linkedin.com/in/atharva-bhadale-752691226/"
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology, Kota",
+            "area": "Engineering",
+            "studyType": "B.Tech",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C/C++",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Secondary"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Beginner"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Secondary"
+        },
+        {
+            "language": "Marathi",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Badminton"
+            ]
+        }
+    ]
+}
