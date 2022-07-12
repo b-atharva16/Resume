@@ -4,11 +4,11 @@
         "label": "Student",
         "picture": "",
         "email": "2021kucp1012@iiitkota.ac.in",
-        "phone": "+919960490610",
+        "phone": "",
         "website": "",
         "summary": "Student at Indian Institute of Information Technology, Kota (India), pursuing B.tech in Computer Science & Engineering.",
         "location": {
-            "address": "30/2B, 'Sarthak', Vijayraj Colony, Pimple Gurav",
+            "address": "Pimple Gurav",
             "postalCode": "411061",
             "city": "Pune",
             "countryCode": "India",
@@ -16,9 +16,9 @@
         },
         "profiles": [
             {
-                "network": "Twitter",
-                "username": "atharva_bhadale",
-                "url": "https://twitter.com/atharva_bhadale"
+                "network": "",
+                "username": "",
+                "url": ""
             },
             {
                 "network": "Github",
